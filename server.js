@@ -5,7 +5,7 @@ app.use(express.json());
 
 app.use(cors())
 
-const port = 4000;
+const port = 3001;
 
 // storing the json globally
 let cityiojson = { test: "test"}
